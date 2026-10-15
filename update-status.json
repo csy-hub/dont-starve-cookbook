@@ -1,9 +1,9 @@
 {
   "lastUpdatedAt": null,
-  "lastCheckedAt": "2026-10-15T15:38:33+08:00",
-  "lastSuccessfulRunAt": "2026-10-15T15:38:33+08:00",
+  "lastCheckedAt": "2026-10-15T16:54:00+08:00",
+  "lastSuccessfulRunAt": "2026-10-15T16:54:00+08:00",
   "dataDate": "2026-10-14",
-  "lastAttemptAt": "2026-10-15T15:37:23+08:00",
+  "lastAttemptAt": "2026-10-15T16:52:49+08:00",
   "state": "success",
   "message": "检查完成，食谱数据没有变化",
   "lastResult": {
@@ -16,7 +16,7 @@
     "sourcePages": 139,
     "message": "检查完成，食谱数据没有变化"
   },
-  "runId": "1792049843243996003",
-  "lastSuccessfulRunId": "1792049843243996003",
-  "runUrl": "https://github.com/csy-hub/dont-starve-cookbook/actions/runs/38699976964"
+  "runId": "1792054369814213576",
+  "lastSuccessfulRunId": "1792054369814213576",
+  "runUrl": "https://github.com/csy-hub/dont-starve-cookbook/actions/runs/38708807591"
 }
