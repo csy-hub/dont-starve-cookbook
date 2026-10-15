@@ -1,0 +1,58 @@
+name: 手动检查并更新食谱
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/update-cookbook.yml'
+permissions:
+  contents: read
+concurrency:
+  group: cookbook-manual-update
+  cancel-in-progress: false
+jobs:
+  refresh:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: 安装抓取依赖
+        run: python -m pip install -r updater/requirements.txt
+      - name: 抓取、比较并校验网站
+        env:
+          TZ: Asia/Shanghai
+        run: python scripts/cloud_update.py
+      - name: 保存数据与检查记录
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add index.html update-status.json update-history.json updater/*.gz.b64
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh cookbook sources and check status'
+            git push origin HEAD:main
+          fi
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+  deploy:
+    needs: refresh
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 发布校验后的静态网站
+        id: deployment
+        uses: actions/deploy-pages@v4
