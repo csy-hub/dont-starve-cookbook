@@ -2,9 +2,9 @@
 数据日期：2026-10-14
 
 打开方法
-解压完整文件包，双击 index.html。支持 Chrome、Edge、Firefox 等现代浏览器。
-所有页面所需图片、脚本、样式均在包内；不需要联网，不需要启动服务器。
-不要单独移动 index.html；请保留 assets、data.js、app.js、style.css 的相对位置。
+在线版通过 GitHub Pages 访问；离线使用可下载 index.html 并在 Chrome、Edge、Firefox 等现代浏览器打开。
+图片、食谱数据、脚本、样式已完整嵌入 index.html；运行无需登录、外部图片服务或后端服务器。
+来源与许可另见本仓库 image_sources.json 和 IMAGE_LICENSE.txt。
 
 功能
 按食谱、中文材料、配方条件搜索。
@@ -65,7 +65,7 @@ https://dontstarve.wiki.gg/zh/wiki/Doc/scripts/preparedfoods.lua?variant=zh-cn
 Wiki所链接的Food Guide：https://bluehexagons.github.io/foodguide/
 项目：https://github.com/bluehexagons/foodguide
 补充项目：https://github.com/bostwiek/dontstarvetogether-crockpot
-具体图片地址记录在image_sources.json；下载资源在assets目录。
+具体图片地址记录在image_sources.json；原始图片以 data URI 形式嵌入 index.html，详情页可下载原图。
 
 许可
 Don't Starve游戏、美术、图片与商标属于Klei Entertainment。
