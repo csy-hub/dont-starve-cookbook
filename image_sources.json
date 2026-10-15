@@ -1,0 +1,1268 @@
+{
+  "item_amberosia.png": {
+    "file": "assets/item_amberosia.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/amberosia.png"
+  },
+  "item_collected_dust.png": {
+    "file": "assets/item_collected_dust.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/collected_dust.png"
+  },
+  "item_twigs.png": {
+    "file": "assets/item_twigs.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/twigs.png"
+  },
+  "item_asparagazpacho.png": {
+    "file": "assets/item_asparagazpacho.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/asparagazpacho.png"
+  },
+  "item_asparagus.png": {
+    "file": "assets/item_asparagus.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/asparagus.png"
+  },
+  "item_ice.png": {
+    "file": "assets/item_ice.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/ice.png"
+  },
+  "item_ice_bream.png": {
+    "file": "assets/item_ice_bream.png",
+    "width": 241,
+    "height": 145,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/ice_bream.png"
+  },
+  "item_asparagus_soup.png": {
+    "file": "assets/item_asparagus_soup.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/asparagus_soup.png"
+  },
+  "item_carrot.png": {
+    "file": "assets/item_carrot.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/carrot.png"
+  },
+  "item_red_cap.png": {
+    "file": "assets/item_red_cap.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/red_cap.png"
+  },
+  "item_honey.png": {
+    "file": "assets/item_honey.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/honey.png"
+  },
+  "item_aloe.png": {
+    "file": "assets/item_aloe.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/aloe.png"
+  },
+  "item_radish.png": {
+    "file": "assets/item_radish.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/radish.png"
+  },
+  "item_monster_meat.png": {
+    "file": "assets/item_monster_meat.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/monster_meat.png"
+  },
+  "item_bacon_and_eggs.png": {
+    "file": "assets/item_bacon_and_eggs.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/bacon_and_eggs.png"
+  },
+  "item_meat.png": {
+    "file": "assets/item_meat.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/meat.png"
+  },
+  "item_egg.png": {
+    "file": "assets/item_egg.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/egg.png"
+  },
+  "item_morsel.png": {
+    "file": "assets/item_morsel.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/morsel.png"
+  },
+  "item_tallbird_egg.png": {
+    "file": "assets/item_tallbird_egg.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/tallbird_egg.png"
+  },
+  "item_barnacles.png": {
+    "file": "assets/item_barnacles.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/barnacles.png"
+  },
+  "item_raw_fish.png": {
+    "file": "assets/item_raw_fish.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/raw_fish.png"
+  },
+  "item_doydoy_egg.png": {
+    "file": "assets/item_doydoy_egg.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/doydoy_egg.png"
+  },
+  "item_dead_dogfish.png": {
+    "file": "assets/item_dead_dogfish.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/dead_dogfish.png"
+  },
+  "item_banana_pop.png": {
+    "file": "assets/item_banana_pop.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/banana_pop.png"
+  },
+  "item_banana.png": {
+    "file": "assets/item_banana.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/banana.png"
+  },
+  "item_berries.png": {
+    "file": "assets/item_berries.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/berries.png"
+  },
+  "item_nightmare_fuel.png": {
+    "file": "assets/item_nightmare_fuel.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/nightmare_fuel.png"
+  },
+  "item_bone_shards.png": {
+    "file": "assets/item_bone_shards.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/bone_shards.png"
+  },
+  "item_banana_shake.png": {
+    "file": "assets/item_banana_shake.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/banana_shake.png"
+  },
+  "item_barnacle_linguine.png": {
+    "file": "assets/item_barnacle_linguine.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/barnacle_linguine.png"
+  },
+  "item_ripe_stone_fruit.png": {
+    "file": "assets/item_ripe_stone_fruit.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/ripe_stone_fruit.png"
+  },
+  "item_barnacle_nigiri.png": {
+    "file": "assets/item_barnacle_nigiri.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/barnacle_nigiri.png"
+  },
+  "item_kelp_fronds.png": {
+    "file": "assets/item_kelp_fronds.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/kelp_fronds.png"
+  },
+  "item_barnacle_pita.png": {
+    "file": "assets/item_barnacle_pita.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/barnacle_pita.png"
+  },
+  "item_green_cap.png": {
+    "file": "assets/item_green_cap.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/green_cap.png"
+  },
+  "food_beefalotreats.png": {
+    "file": "assets/food_beefalotreats.png",
+    "width": 256,
+    "height": 256,
+    "source": "https://github.com/bostwiek/dontstarvetogether-crockpot/blob/master/src/images/crockpot/beefalotreats.png"
+  },
+  "item_forget-me-lots.png": {
+    "file": "assets/item_forget-me-lots.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/forget-me-lots.png"
+  },
+  "item_roasted_birchnut.png": {
+    "file": "assets/item_roasted_birchnut.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/roasted_birchnut.png"
+  },
+  "item_birchnut.png": {
+    "file": "assets/item_birchnut.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/birchnut.png"
+  },
+  "item_beefy_greens.png": {
+    "file": "assets/item_beefy_greens.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/beefy_greens.png"
+  },
+  "item_leafy_meat.png": {
+    "file": "assets/item_leafy_meat.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/leafy_meat.png"
+  },
+  "item_lichen.png": {
+    "file": "assets/item_lichen.png",
+    "width": 68,
+    "height": 65,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/lichen.png"
+  },
+  "item_cactus_flesh.png": {
+    "file": "assets/item_cactus_flesh.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/cactus_flesh.png"
+  },
+  "item_popcorn.png": {
+    "file": "assets/item_popcorn.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/popcorn.png"
+  },
+  "item_popperfish.png": {
+    "file": "assets/item_popperfish.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/popperfish.png"
+  },
+  "item_corn_cod.png": {
+    "file": "assets/item_corn_cod.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/corn_cod.png"
+  },
+  "item_bisque.png": {
+    "file": "assets/item_bisque.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/bisque.png"
+  },
+  "item_limpets.png": {
+    "file": "assets/item_limpets.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/limpets.png"
+  },
+  "item_bone_bouillon.png": {
+    "file": "assets/item_bone_bouillon.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/bone_bouillon.png"
+  },
+  "item_onion.png": {
+    "file": "assets/item_onion.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/onion.png"
+  },
+  "item_potato.png": {
+    "file": "assets/item_potato.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/potato.png"
+  },
+  "food_breakfastskillet.png": {
+    "file": "assets/food_breakfastskillet.png",
+    "width": 256,
+    "height": 256,
+    "source": "https://github.com/bostwiek/dontstarvetogether-crockpot/blob/master/src/images/crockpot/breakfastskillet.png"
+  },
+  "item_bunny_stew.png": {
+    "file": "assets/item_bunny_stew.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/bunny_stew.png"
+  },
+  "item_fish_morsel.png": {
+    "file": "assets/item_fish_morsel.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/fish_morsel.png"
+  },
+  "item_cooked_frog_legs.png": {
+    "file": "assets/item_cooked_frog_legs.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/cooked_frog_legs.png"
+  },
+  "item_cooked_barnacles.png": {
+    "file": "assets/item_cooked_barnacles.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/cooked_barnacles.png"
+  },
+  "item_butter_muffin.png": {
+    "file": "assets/item_butter_muffin.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/butter_muffin.png"
+  },
+  "item_butterfly_wings.png": {
+    "file": "assets/item_butterfly_wings.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/butterfly_wings.png"
+  },
+  "item_california_roll.png": {
+    "file": "assets/item_california_roll.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/california_roll.png"
+  },
+  "item_fish.png": {
+    "file": "assets/item_fish.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/fish.png"
+  },
+  "item_freshwater_fish.png": {
+    "file": "assets/item_freshwater_fish.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/freshwater_fish.png"
+  },
+  "item_eel.png": {
+    "file": "assets/item_eel.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/eel.png"
+  },
+  "item_seaweed.png": {
+    "file": "assets/item_seaweed.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/seaweed.png"
+  },
+  "item_dead_jellyfish.png": {
+    "file": "assets/item_dead_jellyfish.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/dead_jellyfish.png"
+  },
+  "item_tropical_fish.png": {
+    "file": "assets/item_tropical_fish.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/tropical_fish.png"
+  },
+  "item_roasted_seaweed.png": {
+    "file": "assets/item_roasted_seaweed.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/roasted_seaweed.png"
+  },
+  "item_caviar.png": {
+    "file": "assets/item_caviar.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/caviar.png"
+  },
+  "item_roe.png": {
+    "file": "assets/item_roe.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/roe.png"
+  },
+  "item_cooked_roe.png": {
+    "file": "assets/item_cooked_roe.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/cooked_roe.png"
+  },
+  "item_sweet_potato.png": {
+    "file": "assets/item_sweet_potato.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/sweet_potato.png"
+  },
+  "item_mandrake.png": {
+    "file": "assets/item_mandrake.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/mandrake.png"
+  },
+  "item_ceviche.png": {
+    "file": "assets/item_ceviche.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/ceviche.png"
+  },
+  "item_cooked_fish_morsel.png": {
+    "file": "assets/item_cooked_fish_morsel.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/cooked_fish_morsel.png"
+  },
+  "item_mussel.png": {
+    "file": "assets/item_mussel.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/mussel.png"
+  },
+  "item_cooked_jellyfish.png": {
+    "file": "assets/item_cooked_jellyfish.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/cooked_jellyfish.png"
+  },
+  "item_shark_fin.png": {
+    "file": "assets/item_shark_fin.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/shark_fin.png"
+  },
+  "item_coffee.png": {
+    "file": "assets/item_coffee.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/coffee.png"
+  },
+  "item_roasted_coffee_beans.png": {
+    "file": "assets/item_roasted_coffee_beans.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/roasted_coffee_beans.png"
+  },
+  "item_butter.png": {
+    "file": "assets/item_butter.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/butter.png"
+  },
+  "item_creamy_potato_purée.png": {
+    "file": "assets/item_creamy_potato_purée.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/creamy_potato_pur%C3%A9e.png"
+  },
+  "item_garlic.png": {
+    "file": "assets/item_garlic.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/garlic.png"
+  },
+  "item_dragonpie.png": {
+    "file": "assets/item_dragonpie.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/dragonpie.png"
+  },
+  "item_dragon_fruit.png": {
+    "file": "assets/item_dragon_fruit.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/dragon_fruit.png"
+  },
+  "item_durian.png": {
+    "file": "assets/item_durian.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/durian.png"
+  },
+  "item_eggplant.png": {
+    "file": "assets/item_eggplant.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/eggplant.png"
+  },
+  "item_weevole_carapace.png": {
+    "file": "assets/item_weevole_carapace.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/weevole_carapace.png"
+  },
+  "food_fancyspiralledtubers.png": {
+    "file": "assets/food_fancyspiralledtubers.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bostwiek/dontstarvetogether-crockpot/blob/master/src/images/crockpot/fancyspiralledtubers.png"
+  },
+  "item_feijoada.png": {
+    "file": "assets/item_feijoada.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/feijoada.png"
+  },
+  "item_bean_bugs.png": {
+    "file": "assets/item_bean_bugs.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/bean_bugs.png"
+  },
+  "item_cooked_bean_bugs.png": {
+    "file": "assets/item_cooked_bean_bugs.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/cooked_bean_bugs.png"
+  },
+  "item_fig-stuffed_trunk.png": {
+    "file": "assets/item_fig-stuffed_trunk.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/fig-stuffed_trunk.png"
+  },
+  "item_fig.png": {
+    "file": "assets/item_fig.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/fig.png"
+  },
+  "item_koalefant_trunk.png": {
+    "file": "assets/item_koalefant_trunk.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/koalefant_trunk.png"
+  },
+  "item_figatoni.png": {
+    "file": "assets/item_figatoni.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/figatoni.png"
+  },
+  "item_figgy_frogwich.png": {
+    "file": "assets/item_figgy_frogwich.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/figgy_frogwich.png"
+  },
+  "item_frog_legs.png": {
+    "file": "assets/item_frog_legs.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/frog_legs.png"
+  },
+  "item_figkabab.png": {
+    "file": "assets/item_figkabab.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/figkabab.png"
+  },
+  "item_smolt_fry.png": {
+    "file": "assets/item_smolt_fry.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/smolt_fry.png"
+  },
+  "item_bitty_baitfish.png": {
+    "file": "assets/item_bitty_baitfish.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/bitty_baitfish.png"
+  },
+  "item_fish_cordon_bleu.png": {
+    "file": "assets/item_fish_cordon_bleu.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/fish_cordon_bleu.png"
+  },
+  "item_fish_tacos.png": {
+    "file": "assets/item_fish_tacos.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/fish_tacos.png"
+  },
+  "item_corn.png": {
+    "file": "assets/item_corn.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/corn.png"
+  },
+  "item_fishsticks.png": {
+    "file": "assets/item_fishsticks.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/fishsticks.png"
+  },
+  "item_fist_full_of_jam.png": {
+    "file": "assets/item_fist_full_of_jam.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/fist_full_of_jam.png"
+  },
+  "item_pomegranate.png": {
+    "file": "assets/item_pomegranate.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/pomegranate.png"
+  },
+  "item_coffee_beans.png": {
+    "file": "assets/item_coffee_beans.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/coffee_beans.png"
+  },
+  "item_flower_salad.png": {
+    "file": "assets/item_flower_salad.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/flower_salad.png"
+  },
+  "item_cactus_flower.png": {
+    "file": "assets/item_cactus_flower.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/cactus_flower.png"
+  },
+  "item_fresh_fruit_crepes.png": {
+    "file": "assets/item_fresh_fruit_crepes.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/fresh_fruit_crepes.png"
+  },
+  "item_halved_coconut.png": {
+    "file": "assets/item_halved_coconut.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/halved_coconut.png"
+  },
+  "item_froggle_bunwich.png": {
+    "file": "assets/item_froggle_bunwich.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/froggle_bunwich.png"
+  },
+  "item_moleworm.png": {
+    "file": "assets/item_moleworm.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/moleworm.png"
+  },
+  "item_frozen_banana_daiquiri.png": {
+    "file": "assets/item_frozen_banana_daiquiri.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/frozen_banana_daiquiri.png"
+  },
+  "item_cooked_banana.png": {
+    "file": "assets/item_cooked_banana.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/cooked_banana.png"
+  },
+  "item_fruit_medley.png": {
+    "file": "assets/item_fruit_medley.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/fruit_medley.png"
+  },
+  "item_glow_berry_mousse.png": {
+    "file": "assets/item_glow_berry_mousse.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/glow_berry_mousse.png"
+  },
+  "item_lesser_glow_berry.png": {
+    "file": "assets/item_lesser_glow_berry.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/lesser_glow_berry.png"
+  },
+  "item_glow_berry.png": {
+    "file": "assets/item_glow_berry.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/glow_berry.png"
+  },
+  "item_grim_galette.png": {
+    "file": "assets/item_grim_galette.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/grim_galette.png"
+  },
+  "item_guacamole.png": {
+    "file": "assets/item_guacamole.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/guacamole.png"
+  },
+  "item_drumstick.png": {
+    "file": "assets/item_drumstick.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/drumstick.png"
+  },
+  "item_gummy_cake.png": {
+    "file": "assets/item_gummy_cake.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/gummy_cake.png"
+  },
+  "item_gummy_slug.png": {
+    "file": "assets/item_gummy_slug.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/gummy_slug.png"
+  },
+  "item_honeycomb.png": {
+    "file": "assets/item_honeycomb.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/honeycomb.png"
+  },
+  "item_cooked_gummy_slug.png": {
+    "file": "assets/item_cooked_gummy_slug.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/cooked_gummy_slug.png"
+  },
+  "item_hard_shell_tacos.png": {
+    "file": "assets/item_hard_shell_tacos.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/hard_shell_tacos.png"
+  },
+  "item_cooked_green_cap.png": {
+    "file": "assets/item_cooked_green_cap.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/cooked_green_cap.png"
+  },
+  "item_honey_ham.png": {
+    "file": "assets/item_honey_ham.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/honey_ham.png"
+  },
+  "item_cooked_monster_meat.png": {
+    "file": "assets/item_cooked_monster_meat.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/cooked_monster_meat.png"
+  },
+  "item_small_jerky.png": {
+    "file": "assets/item_small_jerky.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/small_jerky.png"
+  },
+  "item_honey_nuggets.png": {
+    "file": "assets/item_honey_nuggets.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/honey_nuggets.png"
+  },
+  "item_hot_dragon_chili_salad.png": {
+    "file": "assets/item_hot_dragon_chili_salad.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/hot_dragon_chili_salad.png"
+  },
+  "item_pepper.png": {
+    "file": "assets/item_pepper.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/pepper.png"
+  },
+  "item_ice_cream.png": {
+    "file": "assets/item_ice_cream.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/ice_cream.png"
+  },
+  "item_electric_milk.png": {
+    "file": "assets/item_electric_milk.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/electric_milk.png"
+  },
+  "item_milky_whites.png": {
+    "file": "assets/item_milky_whites.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/milky_whites.png"
+  },
+  "item_iced_tea.png": {
+    "file": "assets/item_iced_tea.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/iced_tea.png"
+  },
+  "item_orange_piko.png": {
+    "file": "assets/item_orange_piko.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/orange_piko.png"
+  },
+  "item_jelly-o_pop.png": {
+    "file": "assets/item_jelly-o_pop.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/jelly-o_pop.png"
+  },
+  "item_jellyfish.png": {
+    "file": "assets/item_jellyfish.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/jellyfish.png"
+  },
+  "item_dried_jellyfish.png": {
+    "file": "assets/item_dried_jellyfish.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/dried_jellyfish.png"
+  },
+  "item_jelly_salad.png": {
+    "file": "assets/item_jelly_salad.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/jelly_salad.png"
+  },
+  "item_royal_jelly.png": {
+    "file": "assets/item_royal_jelly.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/royal_jelly.png"
+  },
+  "item_jellybeans.png": {
+    "file": "assets/item_jellybeans.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/jellybeans.png"
+  },
+  "item_watermelon.png": {
+    "file": "assets/item_watermelon.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/watermelon.png"
+  },
+  "item_kabobs.png": {
+    "file": "assets/item_kabobs.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/kabobs.png"
+  },
+  "item_leafy_meatloaf.png": {
+    "file": "assets/item_leafy_meatloaf.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/leafy_meatloaf.png"
+  },
+  "item_wobster_dst.png": {
+    "file": "assets/item_wobster_dst.png",
+    "width": 237,
+    "height": 196,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/wobster_dst.png"
+  },
+  "food_lobsterbisque.png": {
+    "file": "assets/food_lobsterbisque.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bostwiek/dontstarvetogether-crockpot/blob/master/src/images/crockpot/lobsterbisque.png"
+  },
+  "food_lobsterdinner.png": {
+    "file": "assets/food_lobsterdinner.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bostwiek/dontstarvetogether-crockpot/blob/master/src/images/crockpot/lobsterdinner.png"
+  },
+  "item_mandrake_soup.png": {
+    "file": "assets/item_mandrake_soup.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/mandrake_soup.png"
+  },
+  "item_meatballs.png": {
+    "file": "assets/item_meatballs.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/meatballs.png"
+  },
+  "item_meated_nettles.png": {
+    "file": "assets/item_meated_nettles.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/meated_nettles.png"
+  },
+  "item_nettle.png": {
+    "file": "assets/item_nettle.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/nettle.png"
+  },
+  "item_meaty_stew.png": {
+    "file": "assets/item_meaty_stew.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/meaty_stew.png"
+  },
+  "item_melonsicle.png": {
+    "file": "assets/item_melonsicle.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/melonsicle.png"
+  },
+  "item_milkmade_hat.png": {
+    "file": "assets/item_milkmade_hat.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/milkmade_hat.png"
+  },
+  "item_naked_nostrils.png": {
+    "file": "assets/item_naked_nostrils.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/naked_nostrils.png"
+  },
+  "item_monster_lasagna.png": {
+    "file": "assets/item_monster_lasagna.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/monster_lasagna.png"
+  },
+  "item_monster_tartare.png": {
+    "file": "assets/item_monster_tartare.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/monster_tartare.png"
+  },
+  "item_cooked_sweet_potato.png": {
+    "file": "assets/item_cooked_sweet_potato.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/cooked_sweet_potato.png"
+  },
+  "item_moqueca.png": {
+    "file": "assets/item_moqueca.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/moqueca.png"
+  },
+  "item_toma_root.png": {
+    "file": "assets/item_toma_root.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/toma_root.png"
+  },
+  "item_mushy_cake.png": {
+    "file": "assets/item_mushy_cake.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/mushy_cake.png"
+  },
+  "item_moon_shroom.png": {
+    "file": "assets/item_moon_shroom.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/moon_shroom.png"
+  },
+  "item_blue_cap.png": {
+    "file": "assets/item_blue_cap.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/blue_cap.png"
+  },
+  "item_mussel_bouillabaise.png": {
+    "file": "assets/item_mussel_bouillabaise.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/mussel_bouillabaise.png"
+  },
+  "item_nettle_rolls.png": {
+    "file": "assets/item_nettle_rolls.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/nettle_rolls.png"
+  },
+  "item_pierogi.png": {
+    "file": "assets/item_pierogi.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/pierogi.png"
+  },
+  "food_plainomelette.png": {
+    "file": "assets/food_plainomelette.png",
+    "width": 256,
+    "height": 256,
+    "source": "https://github.com/bostwiek/dontstarvetogether-crockpot/blob/master/src/images/crockpot/plainomelette.png"
+  },
+  "item_powdercake.png": {
+    "file": "assets/item_powdercake.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/powdercake.png"
+  },
+  "item_puffed_potato_souffle.png": {
+    "file": "assets/item_puffed_potato_souffle.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/puffed_potato_souffle.png"
+  },
+  "item_pumpkin_cookie.png": {
+    "file": "assets/item_pumpkin_cookie.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/pumpkin_cookie.png"
+  },
+  "item_pumpkin.png": {
+    "file": "assets/item_pumpkin.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/pumpkin.png"
+  },
+  "item_ratatouille.png": {
+    "file": "assets/item_ratatouille.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/ratatouille.png"
+  },
+  "item_salsa_fresca.png": {
+    "file": "assets/item_salsa_fresca.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/salsa_fresca.png"
+  },
+  "item_seafood_gumbo.png": {
+    "file": "assets/item_seafood_gumbo.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/seafood_gumbo.png"
+  },
+  "item_wobster.png": {
+    "file": "assets/item_wobster.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/wobster.png"
+  },
+  "item_shark_fin_soup.png": {
+    "file": "assets/item_shark_fin_soup.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/shark_fin_soup.png"
+  },
+  "item_snake_bone_soup.png": {
+    "file": "assets/item_snake_bone_soup.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/snake_bone_soup.png"
+  },
+  "item_snake_bone.png": {
+    "file": "assets/item_snake_bone.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/snake_bone.png"
+  },
+  "item_soothing_tea.png": {
+    "file": "assets/item_soothing_tea.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/soothing_tea.png"
+  },
+  "item_spicy_chili.png": {
+    "file": "assets/item_spicy_chili.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/spicy_chili.png"
+  },
+  "item_foliage.png": {
+    "file": "assets/item_foliage.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/foliage.png"
+  },
+  "item_spicy_vegetable_stinger.png": {
+    "file": "assets/item_spicy_vegetable_stinger.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/spicy_vegetable_stinger.png"
+  },
+  "item_steamed_ham_sandwich.png": {
+    "file": "assets/item_steamed_ham_sandwich.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/steamed_ham_sandwich.png"
+  },
+  "item_cooked_meat.png": {
+    "file": "assets/item_cooked_meat.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/cooked_meat.png"
+  },
+  "food_steamedtwigs.png": {
+    "file": "assets/food_steamedtwigs.png",
+    "width": 256,
+    "height": 256,
+    "source": "https://github.com/bostwiek/dontstarvetogether-crockpot/blob/master/src/images/crockpot/steamedtwigs.png"
+  },
+  "item_stuffed_eggplant.png": {
+    "file": "assets/item_stuffed_eggplant.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/stuffed_eggplant.png"
+  },
+  "item_stuffed_fish_heads.png": {
+    "file": "assets/item_stuffed_fish_heads.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/stuffed_fish_heads.png"
+  },
+  "food_stuffednightcap.png": {
+    "file": "assets/food_stuffednightcap.png",
+    "width": 275,
+    "height": 190,
+    "source": "https://github.com/bostwiek/dontstarvetogether-crockpot/blob/master/src/images/crockpot/stuffednightcap.png"
+  },
+  "item_stuffed_pepper_poppers.png": {
+    "file": "assets/item_stuffed_pepper_poppers.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/stuffed_pepper_poppers.png"
+  },
+  "item_surf_n_turf.png": {
+    "file": "assets/item_surf_n_turf.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/surf_n_turf.png"
+  },
+  "item_sweet_potato_souffle.png": {
+    "file": "assets/item_sweet_potato_souffle.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/sweet_potato_souffle.png"
+  },
+  "item_taffy.png": {
+    "file": "assets/item_taffy.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/taffy.png"
+  },
+  "food_tallscotcheggs.png": {
+    "file": "assets/food_tallscotcheggs.png",
+    "width": 230,
+    "height": 230,
+    "source": "https://github.com/bostwiek/dontstarvetogether-crockpot/blob/master/src/images/crockpot/tallscotcheggs.png"
+  },
+  "item_tea.png": {
+    "file": "assets/item_tea.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/tea.png"
+  },
+  "item_trail_mix.png": {
+    "file": "assets/item_trail_mix.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/trail_mix.png"
+  },
+  "item_juicy_berries.png": {
+    "file": "assets/item_juicy_berries.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/juicy_berries.png"
+  },
+  "item_tropical_bouillabaisse.png": {
+    "file": "assets/item_tropical_bouillabaisse.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/tropical_bouillabaisse.png"
+  },
+  "item_purple_grouper.png": {
+    "file": "assets/item_purple_grouper.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/purple_grouper.png"
+  },
+  "item_neon_quattro.png": {
+    "file": "assets/item_neon_quattro.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/neon_quattro.png"
+  },
+  "item_pierrot_fish.png": {
+    "file": "assets/item_pierrot_fish.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/pierrot_fish.png"
+  },
+  "item_turkey_dinner.png": {
+    "file": "assets/item_turkey_dinner.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/turkey_dinner.png"
+  },
+  "item_unagi.png": {
+    "file": "assets/item_unagi.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/unagi.png"
+  },
+  "item_vegetable_stinger.png": {
+    "file": "assets/item_vegetable_stinger.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/vegetable_stinger.png"
+  },
+  "item_veggie_burger.png": {
+    "file": "assets/item_veggie_burger.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/veggie_burger.png"
+  },
+  "item_volt_goat_chaud_froid.png": {
+    "file": "assets/item_volt_goat_chaud_froid.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/volt_goat_chaud_froid.png"
+  },
+  "item_volt_goat_horn.png": {
+    "file": "assets/item_volt_goat_horn.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/volt_goat_horn.png"
+  },
+  "item_waffles.png": {
+    "file": "assets/item_waffles.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/waffles.png"
+  },
+  "item_wet_goop.png": {
+    "file": "assets/item_wet_goop.png",
+    "width": 64,
+    "height": 64,
+    "source": "https://github.com/bluehexagons/foodguide/blob/main/html/img/wet_goop.png"
+  }
+}
