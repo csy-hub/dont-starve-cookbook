@@ -1,0 +1,22 @@
+{
+  "lastUpdatedAt": null,
+  "lastCheckedAt": "2026-10-15T15:38:33+08:00",
+  "lastSuccessfulRunAt": "2026-10-15T15:38:33+08:00",
+  "dataDate": "2026-10-14",
+  "lastAttemptAt": "2026-10-15T15:37:23+08:00",
+  "state": "success",
+  "message": "检查完成，食谱数据没有变化",
+  "lastResult": {
+    "changed": false,
+    "updated": [],
+    "added": [],
+    "translationPending": [],
+    "warnings": [],
+    "recipeCount": 139,
+    "sourcePages": 139,
+    "message": "检查完成，食谱数据没有变化"
+  },
+  "runId": "1792049843243996003",
+  "lastSuccessfulRunId": "1792049843243996003",
+  "runUrl": "https://github.com/csy-hub/dont-starve-cookbook/actions/runs/38699976964"
+}
