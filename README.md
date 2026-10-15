@@ -8,6 +8,11 @@
 - 成品图片、中文材料对照、配方规则与四格示例。
 - 数据整理日期：2026-10-14，不自动同步游戏更新。
 
+## 在线访问
+
+启用 Pages 并完成部署后访问：
+https://csy-hub.github.io/dont-starve-cookbook/
+
 ## 发布到 GitHub Pages
 
 仓库 Settings → Pages → Deploy from a branch → main → / (root) → Save。
